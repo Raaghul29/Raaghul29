@@ -9,7 +9,6 @@ I am good at Angular, Java, Spring, Phython , AWS, SQL. I am currently exploring
 - 🔭 I’m currently working on Tata Consultancy Services
 - 🌱 I’m currently learning Data Analysis, Chat Bot and React.
 - 👯 I’m looking to collaborate on LinkedIn
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Java or any tech question.
 - 📫 How to reach me: **Twitter**- [@KrishRaaghul](https://twitter.com/krishRaaghul), **Instagram**-[@raaghul_krish](https://instagram.com/raaghul_krish), **LinkedIn**- [raaghul-k](https://www.linkedin.com/in/raaghul-k/)
 
