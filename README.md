@@ -1,16 +1,18 @@
-### Hi there 👋
+[![MastHead](https://raw.githubusercontent.com/Raaghul29/Raaghul29/master/banner.png)]
 
-<!--
-**Raaghul29/Raaghul29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there! 👋
 
-Here are some ideas to get you started:
+You landed on a github page. I am **Raaghul**, a Full Stack Developer, Machine Learning Enthusiast, Chat Bot Developer and a Cook :yum:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I am good at Angular, Java, Spring, Phython , AWS, SQL. I am currently exploring things in React, Chat Bot and Machine Learning.
+
+- 🔭 I’m currently working on Tata Consultancy Services
+- 🌱 I’m currently learning Data Analysis, Chat Bot and React.
+- 👯 I’m looking to collaborate on LinkedIn
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Java or any tech question.
+- 📫 How to reach me: **Twitter**- [@KrishRaaghul](https://twitter.com/krishRaaghul), **Instagram**-[@raaghul_krish](https://instagram.com/raaghul_krish), **LinkedIn**- [raaghul-k](https://www.linkedin.com/in/raaghul-k/)
+
+![Raaghul GitHub statistic](https://github-readme-stats.vercel.app/api?username=Raaghul29&show_icons=true)
+
+
