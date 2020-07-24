@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/Raaghul29/Raaghul29/master/banner.png)
+(https://raw.githubusercontent.com/Raaghul29/Raaghul29/master/banner.png)
 
 # Hello there! 👋
 
